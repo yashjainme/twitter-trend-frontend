@@ -16,3 +16,7 @@ Before running the app, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
+## Required Environment Variables (.env)
+
+```env
+VITE_BACKEND_URL=http://localhost:5000
